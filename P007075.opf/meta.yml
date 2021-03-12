@@ -5,11 +5,13 @@ source_metadata:
   title: བོད་ཀྱི་རིག་གནས་ལས་འཕྲོས་པའི་གཏམ་སྤྱི་ནོར་བློ་གསལ་མགུལ་རྒྱན།
   author: ''
   volumes:
-    ff0714442c24415dbe85ae5ed11829c9:
+    3ad8f8668d8640c183f452fab52a2b8e:
       image_group_id: I01JW42
-      title: ''
+      title: Volume 1 of bod kyi rig gnas las 'phros pa'i gtam spyi nor blo gsal mgul
+        rgyan
       volume_number: 1
       total_pages: 454
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་རིག་གནས་ལས་འཕྲོས་པའི་གཏམ་སྤྱི་ནོར་བློ་གསལ་མགུལ་རྒྱན།
   author: ''
