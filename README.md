@@ -1,10 +1,10 @@
-|P007075|བོད་ཀྱི་རིག་གནས་ལས་འཕྲོས་པའི་གཏམ་སྤྱི་ནོར་བློ་གསལ་མགུལ་རྒྱན། 
+|I697B9B03|བོད་ཀྱི་རིག་གནས་ལས་འཕྲོས་པའི་གཏམ་སྤྱི་ནོར་བློ་གསལ་མགུལ་རྒྱན། 
 | --- | --- 
 |Alternative Title |
 |Author| ཆ་རིས་སྐལ་བཟང་ཐོགས་མེད།
 |BDRC ID | W30443
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P007075)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P007075/releases/download/v1/bo_kyi_rikne_letro_sapa_i_tam__plain_P007075.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P007075/releases/download/v1/bo_kyi_rikne_letro_sapa_i_tam__pages_P007075.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I697B9B03)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I697B9B03/releases/download/v1/bo_kyi_rikne_letro_sapa_i_tam__plain_I697B9B03.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I697B9B03/releases/download/v1/bo_kyi_rikne_letro_sapa_i_tam__pages_I697B9B03.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W30443)
